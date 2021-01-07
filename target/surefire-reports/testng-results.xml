@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="259367" started-at="2021-01-07T11:28:24Z" finished-at="2021-01-07T11:32:43Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="259367" started-at="2021-01-07T11:28:24Z" finished-at="2021-01-07T11:32:43Z">
+      <class name="com.test.DownloadPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.DownloadPageTest@1afa04c]" name="openBrowser" is-config="true" duration-ms="5332" started-at="2021-01-07T11:31:39Z" finished-at="2021-01-07T11:31:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifymainHeading()[pri:1, instance:com.test.DownloadPageTest@1afa04c]" name="verifymainHeading" duration-ms="36149" started-at="2021-01-07T11:31:44Z" finished-at="2021-01-07T11:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymainHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.DownloadPageTest@1afa04c]" name="closeBrowser" is-config="true" duration-ms="71" started-at="2021-01-07T11:32:20Z" finished-at="2021-01-07T11:32:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.DownloadPageTest -->
+      <class name="com.test.OperatorsPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.OperatorsPageTest@18ad742]" name="openBrowser" is-config="true" duration-ms="5236" started-at="2021-01-07T11:31:31Z" finished-at="2021-01-07T11:31:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifymainHeading()[pri:1, instance:com.test.OperatorsPageTest@18ad742]" name="verifymainHeading" duration-ms="2802" started-at="2021-01-07T11:31:36Z" finished-at="2021-01-07T11:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymainHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.OperatorsPageTest@18ad742]" name="closeBrowser" is-config="true" duration-ms="48" started-at="2021-01-07T11:31:39Z" finished-at="2021-01-07T11:31:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.OperatorsPageTest -->
+      <class name="com.test.UsefulLinksPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UsefulLinksPageTest@24a67]" name="openBrowser" is-config="true" duration-ms="7369" started-at="2021-01-07T11:32:34Z" finished-at="2021-01-07T11:32:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifymainHeading()[pri:1, instance:com.test.UsefulLinksPageTest@24a67]" name="verifymainHeading" duration-ms="2190" started-at="2021-01-07T11:32:41Z" finished-at="2021-01-07T11:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymainHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UsefulLinksPageTest@24a67]" name="closeBrowser" is-config="true" duration-ms="31" started-at="2021-01-07T11:32:43Z" finished-at="2021-01-07T11:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.UsefulLinksPageTest -->
+      <class name="com.test.AddUserPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.AddUserPageTest@a12c19]" name="openBrowser" is-config="true" duration-ms="7480" started-at="2021-01-07T11:32:20Z" finished-at="2021-01-07T11:32:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyHeading()[pri:1, instance:com.test.AddUserPageTest@a12c19]" name="verifyHeading" duration-ms="5953" started-at="2021-01-07T11:32:28Z" finished-at="2021-01-07T11:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.AddUserPageTest@a12c19]" name="closeBrowser" is-config="true" duration-ms="52" started-at="2021-01-07T11:32:34Z" finished-at="2021-01-07T11:32:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.AddUserPageTest -->
+      <class name="com.test.LoginPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.LoginPageTest@174b225]" name="openBrowser" is-config="true" duration-ms="13331" started-at="2021-01-07T11:28:24Z" finished-at="2021-01-07T11:28:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyCorrectData()[pri:1, instance:com.test.LoginPageTest@174b225]" name="verifyCorrectData" duration-ms="4450" started-at="2021-01-07T11:28:37Z" finished-at="2021-01-07T11:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCorrectData -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.LoginPageTest@174b225]" name="closeBrowser" is-config="true" duration-ms="230" started-at="2021-01-07T11:28:42Z" finished-at="2021-01-07T11:28:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.LoginPageTest -->
+      <class name="com.test.UserPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.UserPageTest@144fc66]" name="openBrowser" is-config="true" duration-ms="10742" started-at="2021-01-07T11:28:59Z" finished-at="2021-01-07T11:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifymainHeading()[pri:1, instance:com.test.UserPageTest@144fc66]" name="verifymainHeading" duration-ms="141295" started-at="2021-01-07T11:29:09Z" finished-at="2021-01-07T11:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifymainHeading -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.UserPageTest@144fc66]" name="closeBrowser" is-config="true" duration-ms="46" started-at="2021-01-07T11:31:31Z" finished-at="2021-01-07T11:31:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.UserPageTest -->
+      <class name="com.test.DashboardPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.DashboardPageTest@69b199]" name="openBrowser" is-config="true" duration-ms="11865" started-at="2021-01-07T11:28:42Z" finished-at="2021-01-07T11:28:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyAllCourses()[pri:1, instance:com.test.DashboardPageTest@69b199]" name="verifyAllCourses" duration-ms="4378" started-at="2021-01-07T11:28:54Z" finished-at="2021-01-07T11:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllCourses -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.DashboardPageTest@69b199]" name="closeBrowser" is-config="true" duration-ms="252" started-at="2021-01-07T11:28:58Z" finished-at="2021-01-07T11:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.DashboardPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

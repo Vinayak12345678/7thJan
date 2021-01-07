@@ -1,0 +1,6 @@
+com\test\TestBase.class
+com\test\DownloadPageTest.class
+com\test\UserPageTest.class
+com\test\OperatorsPageTest.class
+com\test\DashboardPageTest.class
+com\test\LoginPageTest.class

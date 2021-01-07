@@ -1,0 +1,10 @@
+com\pages\OperatorsPage.class
+com\objectRepository\DownloadPageRepository.class
+com\objectRepository\DashboardPageRepository.class
+com\objectRepository\OperatorsPageRepository.class
+com\pages\UserPage.class
+com\pages\DownloadPage.class
+com\objectRepository\LoginPageRepository.class
+com\pages\DashboardPage.class
+com\pages\LoginPage.class
+com\objectRepository\UserPageRepository.class

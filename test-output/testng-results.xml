@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="12049" started-at="2021-01-06T07:36:45Z" finished-at="2021-01-06T07:36:57Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="12049" started-at="2021-01-06T07:36:45Z" finished-at="2021-01-06T07:36:57Z">
+      <class name="com.test.AddUserPageTest">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.test.AddUserPageTest@1832929]" name="openBrowser" is-config="true" duration-ms="9784" started-at="2021-01-06T13:06:45Z" finished-at="2021-01-06T13:06:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="verifyAddUserAlert()[pri:8, instance:com.test.AddUserPageTest@1832929]" name="verifyAddUserAlert" duration-ms="2104" started-at="2021-01-06T13:06:55Z" finished-at="2021-01-06T13:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAddUserAlert -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.test.AddUserPageTest@1832929]" name="closeBrowser" is-config="true" duration-ms="128" started-at="2021-01-06T13:06:57Z" finished-at="2021-01-06T13:06:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.test.AddUserPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
